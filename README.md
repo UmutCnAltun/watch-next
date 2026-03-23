@@ -1,7 +1,8 @@
-🎬 Watch Next
-Watch Next, kullanıcıların en yeni ve popüler filmleri keşfedebileceği, detaylarını inceleyebileceği ve fragmanlarını izleyebileceği modern bir film platformudur. TMDB API altyapısını kullanan bu uygulama, React ve Vite ile yüksek performanslı bir kullanıcı deneyimi sunar.
+# 🎬 Watch Next
 
-🚀 Özellikler
+kullanıcıların en yeni ve popüler filmleri keşfedebileceği, detaylarını inceleyebileceği ve fragmanlarını izleyebileceği modern bir film platformudur. TMDB API altyapısını kullanan bu uygulama, React ve Vite ile yüksek performanslı bir kullanıcı deneyimi sunar.
+
+## 🚀 Özellikler
 
 * Popüler ve Güncel Filmler: TMDB API üzerinden anlık çekilen film listeleri.
 
@@ -13,7 +14,7 @@ Watch Next, kullanıcıların en yeni ve popüler filmleri keşfedebileceği, de
 
 * Hızlı ve Modern Arayüz: Vite ve React ile optimize edilmiş, akıcı bir deneyim.
 
-🛠️ Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler
 
 * Frontend: React.js
 
@@ -23,7 +24,7 @@ Watch Next, kullanıcıların en yeni ve popüler filmleri keşfedebileceği, de
 
 * Styling: CSS3
 
-📦 Kurulum
+## 📦 Kurulum
 
 Projeyi yerel makinenizde çalıştırmak için şu adımları izleyebilirsiniz:
 
@@ -52,4 +53,10 @@ Uygulamayı başlatın:
 ```
 npm run dev
 ```
-📸 Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
+
+![Homepage.](/images/homepage.png)
+
+![Grid Görünümü.](/images/grid-view.png)
+
+![Detay Sayfası.](/images/detail-page.png)
